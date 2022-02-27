@@ -1,0 +1,34 @@
+/* CSS Document */
+
+body { font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px; }
+
+h1 { font-size: 22px; color: #336699;}
+
+.yazip { font-size: 32px; color: #0066CC; font-weight: bold;}
+
+.ana { margin-left: 19%;
+	  margin-right: 19%;
+	border:12px solid #f3f5f6;
+	  border-color:#f3f5f6;
+    }
+	
+.elma {
+	background: #FFFFFF;
+	border: 0px;
+	width: auto;
+	height: auto;
+	}
+
+.pense {
+	background:#e3f7ff;
+	border:1px solid #d0f2ff;
+	padding:5px 8px;
+	overflow:hidden;
+	height:100%;
+    width:400px; 
+    font-size:20pt;
+    color: #1a4ea4;
+    font-family: helvetica, impact, sans-serif;
+	}
+
+.alttaki { font-size:9px; text-align:center;}
