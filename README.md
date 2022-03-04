@@ -6,7 +6,7 @@
 - https://aardadasdelen46.github.io
 <br>  <br>  <br>  <br>
 ### Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31cfj7jlv5yasnrccj6226reow3e&cover_image=true&theme=novatorem&bar_color=09ff00&bar_color_cover=false)](https://open.spotify.com/playlist/1NcNJP3EryxnIROBaUdUQy?si=ee84502b79114fcb)
+[![Spotify en son veya aktif olarak dinlediğim şarkı (güncel)](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&cover_image=true&theme=novatorem&bar_color=1666d0&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=su8ifhnt52og805ngstk1hcej&redirect=true)
 <br>  <br>  <br>  <br> 
 ### Supporters 🔥
 [![Stargazers repo roster for @aardadasdelen46/aardadasdelen46.github.io](https://reporoster.com/stars/aardadasdelen46/aardadasdelen46.github.io)](https://github.com/aardadasdelen46/aardadasdelen46.github.io/stargazers)
