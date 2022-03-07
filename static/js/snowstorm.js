@@ -1,13 +1,4 @@
-/** @license
- * DHTML Snowstorm! JavaScript-based snow for web pages
- * Making it snow on the internets since 2003. You're welcome.
- * -----------------------------------------------------------
- * MehmetPalabiyik.Com - Webmaster Blogu
- * Version 1.44.20131208
- * Uploader:MehmetP
- * Bu Dosyayı Farklı Bir Siteden İndirdiyseniz Sitemize Bekleriz
- * https://mehmetpalabiyik.Com
- */
+
 
 /*jslint nomen: true, plusplus: true, sloppy: true, vars: true, white: true */
 /*global window, document, navigator, clearInterval, setInterval */
@@ -26,7 +17,7 @@ var snowStorm = (function(window, document) {
   this.excludeMobile = true;      // Snow is likely to be bad news for mobile phones' CPUs (and batteries.) By default, be nice.
   this.flakeBottom = null;        // Integer for Y axis snow limit, 0 or null for "full-screen" snow effect
   this.followMouse = true;        // Kar Efekti Mausu Takip Etsin
-  this.snowColor = '#fff';        // Kar Rengi
+  this.snowColor = '#0062FF';        // Kar Rengi
   this.snowCharacter = '&bull;';  // &bull; = bullet, &middot; is square on some systems etc.
   this.snowStick = true;          // Karlar Ekranın Altına Yapışsınmı, Eğer Kapatırsanız Ekranın Altına Yapışmaz
   this.targetElement = null;      // element which snow will be appended to (null = document.body) - can be an element ID eg. 'myDiv', or a DOM node reference
